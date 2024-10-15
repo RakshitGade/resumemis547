@@ -1,0 +1,64 @@
+about:
+  name: Rakshit Gade
+  tagline: Product Manager
+  phone: "5205359416"
+  email: rakshitgade@gmail.com
+  links:
+    - title: /in/rakshit-gade
+      url: https://www.linkedin.com/in/rakshit-gade/
+      icon: fab fa-linkedin
+    # - title: mertbakir
+    #   url: https://gitlab.com/mertbakir/
+    #   icon: fab fa-gitlab
+    # - title: mertbakir
+    #   url: https://github.com/mertbakir
+    #   icon: fab fa-github
+  details: |
+    Experienced Product Manager, MBA graduate, and MSMIS student with a proven track record managing product lifecycles. 
+    Skilled in defining strategies, understanding customer needs, and delivering impactful solutions. 
+    Proficient in SQL and data analytics for prioritization and data-driven decisions. 
+
+
+# skills:
+#   - groupName: Product Management
+#     list:
+#       - Product Roadmap Development - Stakeholder Management - Crafting User Stories
+#       - Market Research and Competitive Analysis - Cross-Functional Collaboration
+
+#   - groupName: Data Analysis & Analytics
+#     list:
+#       - Python - R - SQL
+#       - Excel - Power BI - SPSS
+#       - Tableau
+
+#   - groupName: Programming & Systems
+#     list:
+#       - C# - Git - Docker - Azure DevOps
+#       - DAX - CSS, .NET, JavaScript, HTML
+
+interests:
+  - Product Management
+  - AI Applications
+  - Solving Problems
+
+# languages:
+#   - name: English
+#     level: Native
+
+#   #- name: English
+#     #level: Professional
+#     #certificates:
+#       #- "YDS: 86.25 - 2018"
+#       #- "TOEFL: 109 - 2021"
+
+
+certificates:
+  - title: "Certified Scrum Product Owner"
+    subtitle: Scrum Alliance
+    date: "2023"
+    #link: https://xkcd.com/605/ # This link will be on title level.
+
+  #- title: "Supervised Learning: Classification"
+   # subtitle: Coursera
+    #date: "2020"
+    #link: https://xkcd.com/388/

@@ -1,0 +1,45 @@
+- company: Ellucian
+  roles:
+    - role: Technical Consultant Intern
+      details: |
+        •	Assessed 7 migration strategies to transition enterprise reporting from Dynamics On-Premise to Online, ensuring seamless migration
+        •	Collaborated with Engineering and Sales teams to integrate Power BI with Dynamics Online, transforming 9 reports and adding AI-powered analytics, enabling clients to gain deeper insights into their data
+
+      date: 05.2024 -  Present
+
+- company: Verisys
+  page: 1
+  roles: 
+    - role: Product Owner
+      ## tools: SQL, Flink, Kafka
+      details: |
+        •	Launched a product "Data Collections module" by gathering requirements from business, operations, and engineering teams that reduced provider information retrieval time from 2-3 days to about 2 minutes by replacing batch process with REST API services
+        •	Developed a one-year roadmap to unify and integrate 6 products for accessing healthcare provider data from CAQH and TAHP
+        •	Collaborated with Scrum Masters and Delivery Manager to define sprint plans, prioritize the backlog, and create PRDs and user stories in Azure DevOps, improving feature delivery and sprint efficiency by 20%
+        •	Strategically developed and implemented a migration and infrastructure plan, successfully onboarding 250 clients in three months
+
+      date: 12.2022 - 08.2023
+
+- company: Trukker Technologies
+  page: 1
+  roles:
+    - role: Product Owner
+     ## tools: C#, Python, Postgresql
+      details: |
+        •	Launched SaaS web and mobile apps for transportation needs of shippers and carriers, achieving total of 8,000 combined downloads
+        •	Drove Scrum ceremonies, driving agile best practices that improved team velocity by 20% and ensured timely delivery of sprint goals
+        •	Introduced "Rent by Tons," synthesizing insights from data analytics, customer feedback, and platform engagement, and implemented Go-to-market strategies that led to a 20% increase in profitability and a 36% reduction in booking time
+        •	Ideated and launched a bidding platform for Transporter applications, improving efficiency and cutting bid processing time by 50%
+        •	Conducted primary research with 50+ users, optimized digital product flow, improving UX and increasing orders by 25%
+
+      date: 10.2021 - 11.2022
+
+- company: Accenture
+  page: 2
+  roles:
+    - role: Software Engineer
+     ## tools: C#, Python, Postgresql
+      details: |
+        •	Revamped Canadian Tires and Hyundai websites using AEM, empowering users to manage and modify webpages and content 
+        •	Led seamless integration of Adobe Experience Manager to automate marketing campaigns, reducing campaign launch time by 50%
+      date: 08.2019 - 07.2020
